@@ -1,0 +1,17 @@
+body {
+	font-family: sans-serif
+}
+#listTable {
+	display: grid
+}
+#table {
+	text-align: left;
+	width: 200px;
+	border: 1px solid black;
+}
+#link {
+	font-size: small
+}
+#image {
+	width: 100px
+}
